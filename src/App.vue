@@ -1,10 +1,18 @@
 <script>
+    import AppMain from "./components/AppMain.vue";
+
     export default {
-        name: "App"
+        name: "App",
+        components: {
+            AppMain
+        }
     }
 </script>
 
-<template></template>
+<template>
+    <!-- Main -->
+    <AppMain />
+</template>
 
 <style lang="scss">
     @use "../node_modules/bootstrap/scss/bootstrap.scss";
