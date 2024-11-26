@@ -13,7 +13,9 @@
     <!-- Main Header -->
     <AppHeader />
     <!-- Main -->
-    <RouterView />
+    <main>
+        <RouterView />
+    </main>
 </template>
 
 <style lang="scss">

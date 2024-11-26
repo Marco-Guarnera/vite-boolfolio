@@ -5,10 +5,8 @@
 </script>
 
 <template>
-    <main>
-        <!-- Homepage -->
-        <h2>Homepage</h2>
-    </main>
+    <!-- Homepage -->
+    <h2>Homepage</h2>
 </template>
 
 <style lang="scss" scoped>

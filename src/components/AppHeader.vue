@@ -18,6 +18,9 @@
                         <li class="nav-item">
                             <router-link :to="{name: 'homepage'}" class="nav-link" aria-current="page">Homepage</router-link>
                         </li>
+                        <li class="nav-item">
+                            <router-link :to="{name: 'projects'}" class="nav-link" aria-current="page">Projects</router-link>
+                        </li>
                     </ul>
                 </div>
             </div>
