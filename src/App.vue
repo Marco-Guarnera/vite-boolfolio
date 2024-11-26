@@ -1,13 +1,10 @@
 <script>
-    import { RouterView } from "vue-router";
-import AppHeader from "./components/AppHeader.vue";
-    import AppMain from "./components/AppMain.vue";
+    import AppHeader from "./components/AppHeader.vue";
 
     export default {
         name: "App",
         components: {
-            AppHeader,
-            AppMain
+            AppHeader
         }
     }
 </script>
