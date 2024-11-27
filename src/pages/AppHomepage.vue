@@ -9,8 +9,4 @@
     <h2>Homepage</h2>
 </template>
 
-<style lang="scss" scoped>
-    h2 {
-        text-align: center;
-    }
-</style>
+<style lang="scss" scoped></style>
